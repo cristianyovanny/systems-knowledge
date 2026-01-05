@@ -7,7 +7,7 @@
 
 ## 📖 Sobre este Repositorio
 
-Este proyecto nace bajo la filosofía de **Docs-as-Code** (Documentación como Código). No es solo un archivo de notas estáticas, sino un repositorio vivo diseñado con dos propósitos fundamentales:
+Este proyecto nace bajo la filosofía de **Docs-as-Code** (Documentación como Código). No es solo un archivo de notas estáticas, sino un repositorio vivo diseñado con un propósito inicial sobre los fundamentales:
 
 1.  **Base de Conocimiento Humana:** Proveer documentación clara y estructurada sobre diseño de sistemas, infraestructura y mejores prácticas para ser consumida visualmente en mi proyecto web y por otros ingenieros.
 <!--
