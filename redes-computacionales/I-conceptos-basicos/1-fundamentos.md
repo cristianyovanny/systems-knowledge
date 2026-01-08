@@ -1,6 +1,6 @@
-# Fundamentos de Redes Computacionales
+# 👨‍💻 Fundamentos de Redes Computacionales
 
-## ¿Qué vamos a aprender?
+## 👨🏾‍🏫 ¿Qué vamos a aprender?
 * ¿Qué son las redes computacionales?
 * ¿Cómo surgieron las redes computacionales?
 * Tipos de redes computacionales
@@ -8,7 +8,7 @@
 * Modelos principales de las redes computacionales
 * ¿Cuáles con los diferentes protocolos en cada capa?
 
-## ¿Por qué es importante aprender sobre redes computacionales?
+## 👨🏼‍🎓 ¿Por qué es importante aprender sobre redes computacionales?
 
 Son las bases de las ciencias de la computación, porque es el inicio de partida para comenzar tu carrera en tecnología para profundizar en cualquiera de sus áreas.
 
