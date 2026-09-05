@@ -33,36 +33,3 @@ Ejemplos:
 * **Tipo de amenaza de seguridad:** phishing, malware o ransomware.
 
 Aunque estas categorías puedan almacenarse internamente mediante números en un programa, esos números funcionan como **códigos o etiquetas** y no necesariamente representan cantidades.
-
-### Idea clave
-
-**Variable = característica que estudiamos.**
-**Dato = valor que observamos para esa variable.**
-
-Por ejemplo:
-
-**Variable:** tiempo de respuesta
-**Datos:** 120 ms, 150 ms, 98 ms, 175 ms...
-
-La diferencia principal es:
-
-**Cuantitativa → representa una cantidad.**
-
-**Cualitativa → representa una categoría o cualidad.**
-
-De esta forma, las variables se pueden clasificar, según el tipo de dato, de la siguiente manera:
-
-
-```mermaid
-flowchart TD
-    A[Clasificación de Variables] --> B[Cuantitativas]
-    A --> C[Cualitativas]
-
-    B --> D[Continuas]
-    B --> E[Discretas]
-
-    C --> F[Nominales]
-    C --> G[Ordinales]
-
-```
-
