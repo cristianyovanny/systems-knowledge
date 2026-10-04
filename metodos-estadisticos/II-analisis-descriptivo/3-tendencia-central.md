@@ -1,8 +1,8 @@
-## Medidas de tendencia central
+# Medidas de tendencia central
 
 Las **medidas de tendencia central** son medidas estadísticas que permiten identificar un valor que representa, de manera resumida, la **posición central o típica** de un conjunto de datos.
 
-La idea de **“centro”** hace referencia al valor alrededor del cual tienden a concentrarse o distribuirse las observaciones.
+La idea de **“centro”** hace referencia al valor alrededor del cual tienden a concentrarse o distribuirse las obser|vaciones.
 
 Las principales medidas de tendencia central son:
 
@@ -10,7 +10,7 @@ Las principales medidas de tendencia central son:
 * **Mediana**
 * **Moda**
 
-### 1. Media aritmética
+## Media aritmética
 
 La **media aritmética**, comúnmente llamada **promedio**, se obtiene sumando todos los valores de un conjunto de datos y dividiendo el resultado entre el número total de observaciones.
 
@@ -20,15 +20,15 @@ $$
 
 Donde:
 
-* \(\bar{x}\) = media aritmética.
-* \(x_i\) = valor de la observación \(i\).
-* \(n\) = número total de observaciones.
+* \($\bar{x}$\) = media aritmética.
+* \($x_i$\) = valor de la observación \($i$\).
+* \($n$\) = número total de observaciones.
 
 **Ventaja:** es fácil de calcular, interpretar y utilizar en diferentes procedimientos estadísticos.
 
 **Desventaja:** puede verse afectada considerablemente por **valores atípicos o extremos**.
 
-### 2. Mediana
+## Mediana
 
 La **mediana** es el valor que ocupa la posición central de un conjunto de datos cuando las observaciones se ordenan de menor a mayor.
 
@@ -52,7 +52,7 @@ $$
 
 **Desventaja:** utiliza principalmente la posición de los datos y no considera directamente la magnitud de todas las observaciones, por lo que puede perder información respecto a la media.
 
-### 3. Moda
+## Moda
 
 La **moda** es el valor o categoría que presenta la **mayor frecuencia** dentro de un conjunto de datos.
 
@@ -64,14 +64,14 @@ $$
 
 Donde:
 
-* \(f_i\) = frecuencia absoluta asociada al valor \(x_i\).
-* \(x_k\) = valor que presenta la mayor frecuencia.
+* \($f_i$\) = frecuencia absoluta asociada al valor \($x_i$\).
+* \($x_k$\) = valor que presenta la mayor frecuencia.
 
 **Ventaja:** puede utilizarse tanto con datos cuantitativos como con datos cualitativos o categóricos.
 
 **Desventaja:** puede no existir una moda única o puede haber varias modas cuando diferentes valores presentan la misma frecuencia máxima.
 
-### Comparación rápida
+## Comparación rápida
 
 | Medida      | Representa            | Sensibilidad a valores extremos                 | Aplicación                                           |
 | ----------- | --------------------- | ----------------------------------------------- | ---------------------------------------------------- |
